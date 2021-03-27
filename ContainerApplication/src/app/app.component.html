@@ -1,0 +1,6 @@
+<div>Hi there!</div>
+<div>
+  <p>Enter your name: <input type="string" [(ngModel)]="name" ></p>
+  <button (click)="onSubmit()">Submit</button>
+</div>
+<div *ngIf="flag"><mfe-home *axLazyElement="elementUrl" [name]="name"></mfe-home></div>

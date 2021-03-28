@@ -1,6 +1,6 @@
 # MicroFrontend-WebComponentApproach-Angular
 
-This repository contains template project for implementation of micro frontends architecture.
+This repository contains template project for implementation of micro frontends architecture using web components.
 
 MicroFrontend folder contains code for one micro frontend and ContainerApplication project contains code for container application.
 Both are using angular.

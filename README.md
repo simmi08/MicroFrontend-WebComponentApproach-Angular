@@ -12,3 +12,5 @@ To run container application use
 2. ng serve
 
 Find the screenshot of running application as Screenshot.PNG added in the repository.
+
+For detailed step by step guide refer to my medium article - https://saumyasingh-08.medium.com/micro-frontends-implementation-the-web-components-approach-angular-63c5526ce278
